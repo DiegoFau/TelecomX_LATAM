@@ -1,4 +1,4 @@
-#TelecomX – Análisis de Evasión de Clientes (Churn)
+# TelecomX – Análisis de Evasión de Clientes (Churn)
 
 ¿Se están yendo los clientes?  
 Sí.
@@ -7,7 +7,7 @@ Lo intentaremos. Y para eso hacemos este análisis
 
 ---
 
-##Objetivo del Proyecto
+## Objetivo del Proyecto
 
 El objetivo de este proyecto es analizar la evasión de clientes (Churn) en TelecomX utilizando un enfoque exploratorio de datos (EDA).
 
@@ -20,7 +20,7 @@ Buscamos:
 
 ---
 
-##Dataset
+## Dataset
 
 - Fuente: JSON público vía GitHub.
 - Cada fila representa un cliente activo o que canceló el servicio.
@@ -34,7 +34,7 @@ El archivo original viene con estructura anidada (sí, hubo que aplanarlo a la f
 
 ---
 
-##Limpieza y Preparación de Datos
+## Limpieza y Preparación de Datos
 
 Durante el proceso se realizaron:
 
@@ -51,7 +51,7 @@ El 3% de registros tenía valores faltantes en churn y fueron excluidos solo en 
 
 ---
 
-##Principales Hallazgos
+## Principales Hallazgos
 
 Algunas cosas interesantes (y un poco preocupantes):
 
